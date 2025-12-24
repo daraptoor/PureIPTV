@@ -7,16 +7,46 @@ PureIPTV is a premium, high-performance IPTV client built for a modern, distract
 **PureIPTV v1.0.1 (Android APK):**  
 [Download Latest Build](https://github.com/daraptoor/PureIPTV/releases/download/v1.0.1/Pure.IPTV.Build.apk)
 
+## 📸 Gallery
+
+<p align="center">
+  <img src="assets/screenshots/watch_active.png" width="30%" />
+  <img src="assets/screenshots/news_live.png" width="30%" />
+  <img src="assets/screenshots/favorites.png" width="30%" />
+</p>
+
 ## ✨ Premium Features
 
 ### 📺 Immersive Viewing Experience
+<img src="assets/screenshots/watch_active.png" align="right" width="200" />
+
 - **Immersive Channels Mode**: Toggle off all UI controls (search, filters, layout switches) with a single tap for a clean, edge-to-edge channel grid.
 - **Smart Sticky Header**: The "Watch Now" header intelligently sticks to the top during browsing but detaches when a video is active to maximize screen real estate.
 - **Compact Global Player**: A refined, low-profile player interface that provides essential info and EPG data without obstructing the view.
 
+<br clear="right"/>
+
 ### 🧭 Elite Navigation
+<img src="assets/screenshots/favorites.png" align="left" width="200" />
+
 - **Floating Pill Tab Bar**: A custom capsule-style navigation bar with glassmorphism effects, unique tab identities, and smooth active-state transitions.
 - **Adaptive Safe Areas**: Full notch and status bar awareness across all screens, ensuring zero overlap and a "native" feel on every device.
+
+<br clear="left"/>
+
+### ⚙️ Total Control
+<img src="assets/screenshots/settings.png" align="right" width="200" />
+
+- **Advanced Settings**: Manage multiple M3U sources, EPG URLs, and player preferences (PiP, Background Audio) with ease.
+- **Refresh Control**: Force reload channels instantly from the current playlist.
+- **Universal Favorites**: Easily manage your favorite channels with consistent styling across all views.
+
+<br clear="right"/>
+
+### 🌟 What Users Say
+<p align="center">
+  <img src="assets/screenshots/reviews.png" width="80%" />
+</p>
 
 ### ⚡ Performance & Polish
 - **Instant Search**: Optimized 150ms debounce for near-instant results filtering even in massive playlists.
