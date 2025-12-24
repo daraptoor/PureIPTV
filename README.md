@@ -1,13 +1,39 @@
-# PureIPTV v1.0.1
+<p align="center">
+  <img src="assets/images/icon.png" width="120" height="120" style="border-radius: 20%;" />
+</p>
 
-PureIPTV is a premium, high-performance IPTV client built for a modern, distraction-free viewing experience. Combining iOS-inspired aesthetics with elite performance, PureIPTV offers a seamless way to enjoy your favorite live channels.
+<h1 align="center">PureIPTV</h1>
 
-## 📥 Download
+<p align="center">
+  <strong>The premium, high-performance IPTV client for a modern viewing experience.</strong>
+</p>
 
-**PureIPTV v1.0.1 (Android APK):**  
-[Download Latest Build](https://github.com/daraptoor/PureIPTV/releases/download/v1.0.1/Pure.IPTV.Build.apk)
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0.1-blue.svg?style=for-the-badge" alt="Version 1.0.1">
+  <img src="https://img.shields.io/badge/Platform-Android-green.svg?style=for-the-badge" alt="Android">
+  <img src="https://img.shields.io/badge/Platform-iOS-lightgrey.svg?style=for-the-badge" alt="iOS">
+  <img src="https://img.shields.io/badge/Built%20With-Expo-black.svg?style=for-the-badge" alt="Built with Expo">
+</p>
 
-## 📸 Gallery
+<p align="center">
+  PureIPTV combines iOS-inspired aesthetics with elite system performance. Designed for those who appreciate a distraction-free, fluid interface while catching their favorite live content.
+</p>
+
+---
+
+## 📥 Direct Download
+
+Ready to watch? Get the latest stable build for Android below.
+
+<p align="center">
+  <a href="https://github.com/daraptoor/PureIPTV/releases/download/v1.0.1/Pure.IPTV.Build.apk">
+    <img src="https://img.shields.io/badge/DOWNLOAD-ANDROID_APK-success?style=for-the-badge&logo=android" alt="Download APK" height="50">
+  </a>
+</p>
+
+---
+
+## 📸 Interface Gallery
 
 <p align="center">
   <img src="assets/screenshots/watch_active.png" width="30%" />
@@ -15,84 +41,85 @@ PureIPTV is a premium, high-performance IPTV client built for a modern, distract
   <img src="assets/screenshots/favorites.png" width="30%" />
 </p>
 
-## ✨ Premium Features
+---
 
-### 📺 Immersive Viewing Experience
-<img src="assets/screenshots/watch_active.png" align="right" width="200" />
+## ✨ Premium Experience
 
-- **Immersive Channels Mode**: Toggle off all UI controls (search, filters, layout switches) with a single tap for a clean, edge-to-edge channel grid.
-- **Smart Sticky Header**: The "Watch Now" header intelligently sticks to the top during browsing but detaches when a video is active to maximize screen real estate.
-- **Compact Global Player**: A refined, low-profile player interface that provides essential info and EPG data without obstructing the view.
+### 📺 Immersive Viewing
+<img src="assets/screenshots/watch_active.png" align="right" width="220" />
+
+*   **Immersive Mode**: Instantly hide all search and filter controls for a pure, edge-to-edge content grid via the dedicated "Eye" toggle.
+*   **Smart Sticky Headers**: Navigation context that stays with you when you need it and intelligently detaches when content starts playing.
+*   **Low-Profile Player**: A sleeker, more compact Global Player that provides vital info without obstructing the action.
 
 <br clear="right"/>
 
 ### 🧭 Elite Navigation
-<img src="assets/screenshots/favorites.png" align="left" width="200" />
+<img src="assets/screenshots/favorites.png" align="left" width="220" />
 
-- **Floating Pill Tab Bar**: A custom capsule-style navigation bar with glassmorphism effects, unique tab identities, and smooth active-state transitions.
-- **Adaptive Safe Areas**: Full notch and status bar awareness across all screens, ensuring zero overlap and a "native" feel on every device.
+*   **Floating Pill Navigation**: A distinctive custom tab bar featuring glassmorphism effects and dynamic, color-coded active states.
+*   **Adaptive Safe Areas**: Meticulously designed to respect every device's safe area insets, ensuring a premium, native feel on notched screens.
+*   **Persistent Context**: Unified favorite identification across both grid and list views for instant recognition.
 
 <br clear="left"/>
 
-### ⚙️ Total Control
-<img src="assets/screenshots/settings.png" align="right" width="200" />
+### ⚙️ Total Ownership
+<img src="assets/screenshots/settings.png" align="right" width="220" />
 
-- **Advanced Settings**: Manage multiple M3U sources, EPG URLs, and player preferences (PiP, Background Audio) with ease.
-- **Refresh Control**: Force reload channels instantly from the current playlist.
-- **Universal Favorites**: Easily manage your favorite channels with consistent styling across all views.
+*   **Source Management**: Easily manage multiple M3U playlists and EPG (XMLTV) sources.
+*   **Background Audio & PiP**: Full control over background playback and floating window (Picture-in-Picture) modes.
+*   **Lightning Sync**: Optimized 150ms search response and persistent local logo caching for zero-wait browsing.
 
 <br clear="right"/>
 
-### 🌟 What Users Say
+---
+
+## 🌟 What Our Users Say
+
 <p align="center">
-  <img src="assets/screenshots/reviews.png" width="80%" />
+  <img src="assets/screenshots/reviews.png" width="85%" />
 </p>
-
-### ⚡ Performance & Polish
-- **Instant Search**: Optimized 150ms debounce for near-instant results filtering even in massive playlists.
-- **Persistent Image Caching**: High-speed local caching of channel logos for instant load times on subsequent app launches.
-- **Snappy Animations**: Custom easing and accelerated transitions for a responsive, high-end user experience.
-- **Background Audio & PiP**: Full support for Picture-in-Picture and background audio playback, configurable via settings.
-
-## 🛠 Technology Stack
-
-- **Framework**: [Expo](https://expo.dev/) (React Native)
-- **Styling**: [NativeWind](https://www.nativewind.dev/) (Tailwind CSS for React Native)
-- **Icons**: [Lucide React Native](https://lucide.dev/)
-- **State Management**: [Zustand](https://github.com/pmndrs/zustand)
-- **Data Fetching**: [TanStack Query](https://tanstack.com/query/latest)
-- **List Performance**: [@shopify/flash-list](https://github.com/Shopify/flash-list)
-- **Video Engine**: [expo-video](https://docs.expo.dev/versions/latest/sdk/video/)
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (v18 or newer)
-- npm or yarn
-- Expo Go app on your mobile device (for development)
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/daraptoor/PureIPTV.git
-   cd PureIPTV
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npx expo start
-   ```
-
-## 📱 Release Notes (v1.0.1)
-- Updated app identity to **PureIPTV**.
-- Implemented **Smart Sticky Headers** and **Immersive Channels View**.
-- Refined **Global Player** dimensions for a sleeker profile.
-- Synchronized **Favorite Star** styling across all views.
-- Enhanced **Safe Area** handling for better notched-device support.
 
 ---
 
-Built with ❤️ by [Amit K](https://github.com/daraptoor)
+## 🛠 Modern Architecture
+
+PureIPTV is built on a cutting-edge stack optimized for speed and stability.
+
+| Category | Technology |
+| :--- | :--- |
+| **Foundation** | [Expo](https://expo.dev/) (React Native) |
+| **Styling** | [NativeWind](https://www.nativewind.dev/) (Tailwind CSS) |
+| **Performance** | [@shopify/flash-list](https://github.com/Shopify/flash-list) |
+| **State** | [Zustand](https://github.com/pmndrs/zustand) |
+| **Data Fetching** | [TanStack Query](https://tanstack.com/query/latest) |
+| **Icons** | [Lucide React Native](https://lucide.dev/) |
+
+---
+
+## 🚀 Development Setup
+
+Want to build it yourself?
+
+### Prerequisites
+- Node.js (v18+) & npm/yarn
+- Expo Go app for local testing
+
+### Installation
+```bash
+# Clone the repo
+git clone https://github.com/daraptoor/PureIPTV.git
+cd PureIPTV
+
+# Install dependencies
+npm install
+
+# Launch developer server
+npx expo start
+```
+
+---
+
+<p align="center">
+  Built with ❤️ by <strong><a href="https://github.com/daraptoor">Amit K</a></strong>
+</p>
