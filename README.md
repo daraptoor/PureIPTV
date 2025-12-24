@@ -2,6 +2,11 @@
 
 PureIPTV is a premium, high-performance IPTV client built for a modern, distraction-free viewing experience. Combining iOS-inspired aesthetics with elite performance, PureIPTV offers a seamless way to enjoy your favorite live channels.
 
+## 📥 Download
+
+**PureIPTV v1.0.1 (Android APK):**  
+[Download Latest Build](https://expo.dev/artifacts/eas/9L5YV5w7B78kowbctD6wSF.apk)
+
 ## ✨ Premium Features
 
 ### 📺 Immersive Viewing Experience
