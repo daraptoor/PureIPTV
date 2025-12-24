@@ -5,7 +5,7 @@ PureIPTV is a premium, high-performance IPTV client built for a modern, distract
 ## 📥 Download
 
 **PureIPTV v1.0.1 (Android APK):**  
-[Download Latest Build](https://expo.dev/artifacts/eas/9L5YV5w7B78kowbctD6wSF.apk)
+[Download Latest Build](https://github.com/daraptoor/PureIPTV/releases/download/v1.0.1/Pure.IPTV.Build.apk)
 
 ## ✨ Premium Features
 
